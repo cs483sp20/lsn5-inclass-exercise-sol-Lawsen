@@ -17,7 +17,7 @@ set(CMAKE_C_FLAGS "-Wall" )
 
 # Set the source directory, the place where your main.c and
 # other files are located (currently not set)
-set(SDIR Example/)
+set(SDIR )
 
 # List all files that are required to compile your project
 set(SOURCE_FILES

@@ -5,7 +5,6 @@
 #include <wait.h> // for pid_t
 #include <unistd.h> // for fork() etc
 
-
 int main() {
 
     pid_t ret_val;
